@@ -1,2 +1,1 @@
-# od
-Terkait aplikasi "Object Detector" android
+# Usage Details
