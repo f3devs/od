@@ -1,0 +1,58 @@
+# Kebijakan Privasi
+
+**Terakhir diperbarui: 2 Oktober 2026**
+
+F3 Labs ("kami") menghormati privasi pengguna aplikasi **Object Detector** ("Aplikasi"). Kebijakan Privasi ini menjelaskan bagaimana Aplikasi mengumpulkan, menggunakan, dan melindungi data pengguna.
+
+## Data yang Kami Kumpulkan
+
+Aplikasi mengumpulkan dan mengirimkan data berikut ke server kami:
+
+* **User ID**, yaitu pengidentifikasi yang digunakan untuk mengenali pengguna atau instalasi Aplikasi.
+* **Informasi waktu/tanggal pengiriman email terakhir**, yang digunakan sebagai bagian dari informasi pengguna.
+
+Aplikasi tidak mengumpulkan nama, alamat email pribadi pengguna, nomor telepon, lokasi, kontak, foto atau video, maupun data pribadi lainnya melalui server kami.
+
+Aplikasi juga menggunakan **Google Play Integrity API**. Informasi yang diperlukan untuk verifikasi Play Integrity dapat dikirim ke server kami untuk membantu memverifikasi keabsahan penggunaan Aplikasi dan mencegah penyalahgunaan.
+
+## Penggunaan Data
+
+Data yang dikumpulkan digunakan untuk:
+
+* menyediakan dan menjaga fungsi Aplikasi;
+* menyimpan dan mengelola informasi pengguna;
+* melakukan sinkronisasi atau validasi data;
+* menjaga keamanan layanan;
+* mendeteksi dan mencegah penyalahgunaan (anti-abuse); dan
+* melakukan verifikasi menggunakan Google Play Integrity.
+
+Kami tidak menjual atau membagikan data pengguna kepada pihak ketiga untuk tujuan iklan atau pemasaran.
+
+## Penyimpanan dan Keamanan
+
+Data dikirimkan dari Aplikasi ke server menggunakan koneksi **HTTPS** untuk membantu melindungi data selama transmisi.
+
+Kami mengambil langkah-langkah yang wajar untuk melindungi data yang kami kelola dari akses, perubahan, atau pengungkapan yang tidak sah.
+
+## Layanan Pihak Ketiga
+
+Aplikasi menggunakan **Google Play Integrity API**, yang merupakan layanan Google untuk membantu memeriksa keaslian dan integritas aplikasi serta perangkat. Penggunaan layanan tersebut juga tunduk pada kebijakan privasi Google.
+
+## Penghapusan Data
+
+Saat ini Aplikasi tidak menyediakan fitur penghapusan data pengguna secara langsung. Jika Anda memiliki pertanyaan mengenai data yang dikelola oleh kami, Anda dapat menghubungi kami melalui alamat email yang tercantum di bawah.
+
+## Privasi Anak-Anak
+
+Aplikasi tidak ditujukan secara khusus kepada anak-anak dan tidak dirancang untuk mengumpulkan data pribadi anak-anak.
+
+## Perubahan Kebijakan Privasi
+
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap perubahan akan dipublikasikan pada halaman ini dengan memperbarui tanggal "Terakhir diperbarui".
+
+## Hubungi Kami
+
+Jika Anda memiliki pertanyaan mengenai Kebijakan Privasi atau pengelolaan data dalam Aplikasi, silakan hubungi:
+
+**F3 Labs**
+Email: **[f3devsup@gmail.com](mailto:f3devsup@gmail.com)**
